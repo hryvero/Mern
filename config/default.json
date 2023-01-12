@@ -1,0 +1,8 @@
+{
+
+    "port":5000,
+    "jwtSecret":"veronika",
+    "mongodb":"mongodb://127.0.0.1:27017/mern_db",
+    "mongoUri":"mongodb+srv://hryvero:vero2808@mern.a23kzxy.mongodb.net/?retryWrites=true&w=majority"
+    
+}
